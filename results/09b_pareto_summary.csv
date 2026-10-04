@@ -1,0 +1,15 @@
+metric,value
+items,3049.0
+items_without_any_revenue,0.0
+top_1pct_items_share,0.11241596301428436
+top_10pct_items_share,0.42773599601745893
+top_20pct_items_share,0.5939263635115305
+bottom_50pct_items_share,0.14696323745644738
+items_for_50pct_revenue,421.0
+items_for_80pct_revenue,1269.0
+series_top_10pct_share,0.47023692161288316
+overlap_top10_units_vs_revenue,0.5377049180327869
+top_10pct_share_HOBBIES,0.4361533935940557
+top_10pct_share_HOUSEHOLD,0.372372484928445
+top_10pct_share_FOODS,0.44029465996182193
+top_item_share,0.00773731322192898

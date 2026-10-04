@@ -1,0 +1,31 @@
+event_name,event_type,occurrences,mean_index
+LaborDay,National,5,1.2912685443058591
+ColumbusDay,National,5,1.1183634373004387
+VeteransDay,National,5,1.0680180411957336
+Chanukah End,Religious,5,1.0554126210626784
+EidAlAdha,Religious,5,1.043682595254548
+MemorialDay,National,5,1.0417902685609555
+NBAFinalsStart,Sporting,5,1.0368065315854884
+Ramadan starts,Religious,5,1.0325716067828108
+PresidentsDay,National,6,1.0313002949235217
+Cinco De Mayo,Cultural,5,1.0135408120463005
+Eid al-Fitr,Religious,5,1.0120545329113768
+LentStart,Religious,6,0.99138904732694
+IndependenceDay,National,5,0.990913312987922
+Purim End,Religious,6,0.9886246418708128
+OrthodoxEaster,Religious,5,0.976566649305782
+NBAFinalsEnd,Sporting,5,0.9752421567077102
+Pesach End,Religious,6,0.9625421349355445
+LentWeek2,Religious,6,0.9595778977715274
+MartinLutherKingDay,National,5,0.9564737525887181
+StPatricksDay,Cultural,6,0.95271275058867
+SuperBowl,Sporting,6,0.9415430235770449
+OrthodoxChristmas,Religious,5,0.9252324871303728
+Halloween,Cultural,5,0.9178809122666959
+ValentinesDay,Cultural,6,0.9126521752044622
+Father's day,Cultural,4,0.8719805263755036
+Easter,Cultural,5,0.8616575421655984
+Mother's day,Cultural,6,0.8375575839969284
+NewYear,National,5,0.7202550966599995
+Thanksgiving,National,5,0.693443019384567
+Christmas,National,5,0.0003330790356144475
