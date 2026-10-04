@@ -1,0 +1,28 @@
+{
+  "pulled": "2026-10-04",
+  "url": "https://zenodo.org/api/records/12636070/files/m5-forecasting-accuracy.zip/content",
+  "zip_md5": "86f57416a314197f40a17cc6fc60cbb4",
+  "zip_bytes": 48009163,
+  "files": {
+    "calendar.csv": {
+      "bytes": 103469,
+      "sha256": "d12b5914ef03e66649adf5dd9e996e6602251c22b7a6af8f1f7e3aa12f8860f5"
+    },
+    "sales_train_evaluation.csv": {
+      "bytes": 121736518,
+      "sha256": "4b4a47c44c38380d2a9168216fea8c9ff2f31b1ddb772f8a0995952a038b8aa0"
+    },
+    "sales_train_validation.csv": {
+      "bytes": 120007726,
+      "sha256": "f368e66ed1dbecb48b2cc8fc589bf68b3deddbbb36bf5c88b4d6d0a09b9b6724"
+    },
+    "sample_submission.csv": {
+      "bytes": 5228786,
+      "sha256": "eb7597afbec367475ef25dc6dbbc009b8faa47fa2107252c72a029e3cdf72343"
+    },
+    "sell_prices.csv": {
+      "bytes": 203395785,
+      "sha256": "9da3ad1f8b8ccacdbdc70612191dd375ec24a4ac6625c24b75b3bc60b0bed2ef"
+    }
+  }
+}
